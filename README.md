@@ -1,3 +1,5 @@
+Entering my First lines of GIT repository
+
 Hello-World
 ===========
 
